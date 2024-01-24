@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório que documenta meu progresso e projetos durante o curso Full Stack da Cubos Academy. Este curso abrange uma ampla gama de tecnologias e habilidades, capacitando-me a desenvolver aplicações web de ponta a ponta.
 
-## Sobre o Curso
+##Sobre o Curso
 
 O curso Full Stack da Cubos Academy é uma jornada intensiva e abrangente que aborda as principais tecnologias e conceitos necessários para se tornar um desenvolvedor web Full Stack. Sendo eles:
 
