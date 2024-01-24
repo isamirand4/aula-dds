@@ -9,7 +9,7 @@ O curso Full Stack da Cubos Academy é uma jornada intensiva e abrangente que ab
 - Desenvolvimento Frontend utilizando HTML, CSS e JavaScript.
 - Frameworks modernos como React para a construção de interfaces de usuário interativas.
 - Desenvolvimento Backend com Node.js.
-- Bancos de dados relacionais, utilizando SQL e Sequelize.
+- Bancos de dados relacionais, utilizando SQL.
 - Implementação de APIs RESTful.
 - Autenticação e autorização de usuários.
 
