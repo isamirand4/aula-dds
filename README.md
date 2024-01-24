@@ -32,4 +32,3 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta sobre
 - [LinkedIn](www.linkedin.com/in/isaías-miranda-1242a021a)
 - [Email](isaiasmiranda2000@gmail.com)
 
-Agradeço pela visita ao meu repositório! Espero que esteja gostando de acompanhar minha jornada no curso Full Stack da Cubos Academy.
